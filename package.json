@@ -1,5 +1,5 @@
 {
-  "name": "@wcpos/wp-admin-landing",
+  "name": "@rhizomaticweb/rwspos-wp-admin",
   "scripts": {
     "build": "NODE_ENV=production node_modules/.bin/webpack",
     "start": "webpack serve"
